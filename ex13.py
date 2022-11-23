@@ -1,5 +1,5 @@
 from sys import argv
-
+nome = argv[1]
 nome = argv[1]
 eta = argv[2]
 altezza = argv[3]
